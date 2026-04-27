@@ -1,19 +1,33 @@
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/北京卫视.png" group-title="卫视",北京衛視
 http://gslbmgsplive.miguvideo.com/migu/kailu/bjws/51/20251127/index.m3u8?msisdn=1e263683522ba3237936a4169ceacc9b&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260427223632&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=39.98.179.220&SecurityKey=20260427223632&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=423a5e596aa953ec95d98bc1f8213f57&ddCalcu=7452vf3a3aw15a2e85f916caba8995d35e9c&sv=10004&ct=android
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/东方卫视.png" group-title="卫视",東方衛視
-https://cdn-2.ttvb.eu.org/api/dfws/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/北京卫视.png" group-title="卫视",北京衛視
+http://58.57.40.22:9901/tsfile/live/1032_1.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/东方卫视.png" group-title="卫视",東方衛視
 http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=1ffd3dc6df8e407f7c76d6c253b992df&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260427223633&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=39.98.179.220&SecurityKey=20260427223633&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=08704f2842e7749d05fa754d32759382&ddCalcu=2088v37a90w54a7f2238d4425e77a7f4590d&sv=10004&ct=android
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/东方卫视.png" group-title="卫视",東方衛視
+https://cdn-2.ttvb.eu.org/api/dfws/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/广东卫视.png" group-title="卫视",廣東衛視
+http://gslbmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=95d16f3c9a1e5913c7c3562204af403e&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260427223632&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=39.98.179.220&SecurityKey=20260427223632&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcd1ed8c2dc7aae972bd7b4ba18ac9ef&ddCalcu=fdecv9dac1aaea8d18acb24dbc77daba2e79&sv=10004&ct=android
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/广东卫视.png" group-title="卫视",廣東衛視
 https://cdn-2.ttvb.eu.org/api/gdws/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/浙江卫视.png" group-title="卫视",浙江衛視
+http://58.57.40.22:9901/tsfile/live/1029_1.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/浙江卫视.png" group-title="卫视",浙江衛視
 https://cdn-2.ttvb.eu.org/api/zjws/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/江苏卫视.png" group-title="卫视",江蘇衛視
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=1ffd3dc6df8e407f7c76d6c253b992df&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260427223631&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=39.98.173.221&SecurityKey=20260427223631&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f4961796754a0e54edeb683dcba1cf88&ddCalcu=8f84vf9ac6b11aa7b9c6d735846ab0eed5e4&sv=10004&ct=android
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/江苏卫视.png" group-title="卫视",江蘇衛視
 https://cdn-2.ttvb.eu.org/api/jsws/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/湖南卫视.png" group-title="卫视",湖南衛視
 https://cdn-2.ttvb.eu.org/api/hnws/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/湖南卫视.png" group-title="卫视",湖南衛視
+http://58.57.40.22:9901/tsfile/live/1028_1.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/四川卫视.png" group-title="卫视",四川衛視
+http://58.57.40.22:9901/tsfile/live/1046_1.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/四川卫视.png" group-title="卫视",四川衛視
 https://cdn-2.ttvb.eu.org/api/scws/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV1.png" group-title="央视",CCTV 1 綜合
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=a91fc453243fafe567a13308d9c632c0&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260427223623&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.98.179.220&SecurityKey=20260427223623&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ce2c947af68170e74f6e2169369007c9&ddCalcu=9ccev72a0cy09a94673a9f661821e760fe47&sv=10004&ct=android
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV1.png" group-title="央视",CCTV 1 綜合
 https://cdn-2.ttvb.eu.org/api/CCTV1/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV2.png" group-title="央视",CCTV 2 財經
