@@ -3,7 +3,7 @@ https://cdn-2.ttvb.eu.org/api/dfws/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/北京卫视.png" group-title="卫视",北京衛視
 https://cdn-2.ttvb.eu.org/api/bjws/index.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/广东卫视.png" group-title="卫视",廣東衛視
-http://125.42.151.61:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+https://cdn-2.ttvb.eu.org/api/gdws/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/浙江卫视.png" group-title="卫视",浙江衛視
 https://cdn-2.ttvb.eu.org/api/zjws/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/江苏卫视.png" group-title="卫视",江蘇衛視
