@@ -1,42 +1,64 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/东方卫视.png" group-title="卫视",東方衛視
 https://cdn-2.ttvb.eu.org/api/dfws/index.m3u8
+
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/北京卫视.png" group-title="卫视",北京衛視
 https://cdn-2.ttvb.eu.org/api/bjws/index.m3u8
+
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/广东卫视.png" group-title="卫视",廣東衛視
 https://cdn-2.ttvb.eu.org/api/gdws/index.m3u8
+
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/浙江卫视.png" group-title="卫视",浙江衛視
 https://cdn-2.ttvb.eu.org/api/zjws/index.m3u8
+
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/江苏卫视.png" group-title="卫视",江蘇衛視
 https://cdn-2.ttvb.eu.org/api/jsws/index.m3u8
+
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/湖南卫视.png" group-title="卫视",湖南衛視
 https://cdn-2.ttvb.eu.org/api/hnws/index.m3u8
+
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.yang-1989.eu.org/logo/四川卫视.png" group-title="卫视",四川衛視
 https://cdn-2.ttvb.eu.org/api/scws/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV1.png" group-title="央视",CCTV 1 綜合
 https://cdn-2.ttvb.eu.org/api/CCTV1/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV2.png" group-title="央视",CCTV 2 財經
 https://cdn-2.ttvb.eu.org/api/CCTV2/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV3.png" group-title="央视",CCTV 3 綜藝
 https://cdn-2.ttvb.eu.org/api/CCTV3/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV4.png" group-title="央视",CCTV 4 中文國際
 https://cdn-2.ttvb.eu.org/api/CCTV4/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV5.png" group-title="央视",CCTV 5 體育
 https://cdn-2.ttvb.eu.org/api/CCTV5/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV5+.png" group-title="央视",CCTV 5+ 體育賽事
 https://cdn-2.ttvb.eu.org/api/CCTV5+/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV6.png" group-title="央视",CCTV 6 電影
 https://cdn-2.ttvb.eu.org/api/CCTV6/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV7.png" group-title="央视",CCTV 7 國防軍事
 https://cdn-2.ttvb.eu.org/api/CCTV7/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV8.png" group-title="央视",CCTV 8 電視劇
 https://cdn-2.ttvb.eu.org/api/CCTV8/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV9.png" group-title="央视",CCTV 9 記錄
 https://cdn-2.ttvb.eu.org/api/CCTV9/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV10.png" group-title="央视",CCTV 10 科教
 https://cdn-2.ttvb.eu.org/api/CCTV10/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV11.png" group-title="央视",CCTV 11 戲曲
 https://cdn-2.ttvb.eu.org/api/CCTV11/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV12.png" group-title="央视",CCTV 12 社會與法
 https://cdn-2.ttvb.eu.org/api/CCTV12/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV13.png" group-title="央视",CCTV 13 新聞
 https://cdn-2.ttvb.eu.org/api/CCTV13/index.m3u8
